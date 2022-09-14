@@ -1,4 +1,4 @@
-# GDSC-gitgithub-workshop
+# GDSC-git-github-workshop
 
 
 #Step 1:
